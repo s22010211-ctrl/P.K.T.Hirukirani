@@ -8,9 +8,9 @@ font-family: 'Poppins', sans-serif;
 }
 
 body{
+    align-items: center;
     display: flex;
     justify-content: center;
-    align-items: center;
     min-height: 100vh;
     background: linear-gradient(90deg,#e2e2e2,#dfdfdf);
 }
@@ -29,7 +29,7 @@ body{
 .form-box {
     position: absolute;
     right: 0;
-    width: 50%;
+    width: 51%;
     height: 100%;
     background: #fff;
     display: flex;
